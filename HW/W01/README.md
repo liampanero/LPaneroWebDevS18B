@@ -1,6 +1,6 @@
-#Reciepe for Key Lime Pie
+# Reciepe for Key Lime Pie
 
-##Ingredients:
+## Ingredients:
 
 **Graham Cracker Crust:**
 	
