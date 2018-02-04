@@ -2,7 +2,7 @@
 
 ## Recipe Site Information Architecture:
 
-[IA Diagram for MyRecipes.com](imgs/MyRecipes_IALayout.jpg)
+![alt text](imgs/MyRecipes_IALayout.jpg)
 
 ## Reading Response:
 
@@ -10,6 +10,6 @@
 
 ## Wireframe For Recipe Page:
 
-[Wireframe For Recipe Page](imgs/RecipeWireframe.jpg)
+![alt text](imgs/RecipeWireframe.jpg)
 
 
