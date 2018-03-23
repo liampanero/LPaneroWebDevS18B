@@ -1,0 +1,69 @@
+/*importing in main.css*/
+
+@import 'main.css';
+
+html, body{
+	height: 900px;
+}
+
+main{
+	width: 100%;
+	float: left;
+	/*Will become (100%)*/
+	height: 100%;
+	padding: 20px;
+}
+
+article{
+	width: 100%;
+	padding: 20px;
+}
+
+/*CALL TO ACTION ARTICLE*/
+
+article.pageTitle {
+	height: 270px;
+	padding: 40px 20px;
+}
+
+article.pageTitle section{
+	position: relative;
+	width: 70%;
+	min-width: 500px;
+	height: 110px;
+	margin:0 auto;
+}
+
+article.pageTitle h1{
+	position: relative;
+	right:20px;
+	margin: 40px 0 20px 0;
+}
+
+/* PROFILES ARTICLE*/
+
+article.profiles{
+	height: 1000px;
+}
+
+article.profiles section{
+	position: relative;
+	width: 100%;
+	height: 300px;
+	padding: 20px; 	
+}
+
+article.profiles figure{
+	display: inline-block;
+	position: absolute;
+	width:250px;
+	height:250px;
+	margin: 0;
+}
+
+article.profiles figcaption{
+	display: inline-block;
+	position: absolute;
+	width:70%;
+	height:200px;
+	margin: 50px 0 2% 250px;

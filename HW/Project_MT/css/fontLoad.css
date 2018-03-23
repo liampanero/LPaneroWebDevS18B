@@ -1,0 +1,208 @@
+/*OAKNEY*/
+
+	/*LIGHT*/
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-light.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-lightitalic.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+	/*REGULAR*/
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-regularitalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+	/*MEDIUM*/
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-medium.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-mediumitalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+	/*SEMI BOLD*/
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-semi-bold.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oakney';    
+    src: url('../fonts/oakney/oakes-semi-bolditalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+	/*BOLD*/
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Oakney';
+    src: url('../fonts/oakney/oakes-bolditalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/*PROMIXA NOVA*/
+
+	/*LIGHT*/
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-light.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-lightitalic.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-lightcondensed.otf.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: condensed;
+}
+
+	/*REGULAR*/
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-lightcondenseditalic.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-regularitalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-regularcondensed.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-regularcondenseditalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+    font-stretch: condensed;
+}
+
+	/*SEMIBOLD*/
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-semibold.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';    
+    src: url('../fonts/proxima-nova/proxima-nova-semiboldcondensed.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: 'ProximaNova';    
+    src: url('../fonts/proxima-nova/proxima-nova-semiboldcondenseditalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: condensed;
+}
+
+	/*BOLD*/
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-bolditalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+	/*EXTRA BOLD*/
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-extrabold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+	/*BLACK*/
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/proxima-nova/proxima-nova-blackcondensed.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: condensed;
+}

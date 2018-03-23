@@ -1,0 +1,179 @@
+/*importing in main.css*/
+
+@import 'main.css';
+
+
+
+/*ASIDE FOR FEEDBACK (specific ot landing)*/
+
+aside{
+	width: 5%;
+	float: left;
+	/*Will become (100%)*/
+	height: 2100px;
+	margin: 0;
+}
+
+/*MAIN BODY*/
+
+main{
+	width: 95%;
+	float: left;
+	/*Will become (100%)*/
+	height: 2100px;
+	margin: 0;
+}
+
+article{
+	width: 100%;
+	padding: 20px;
+}
+
+/*CALL TO ACTION ARTICLE*/
+
+article.callToAction {
+	height: 310px;
+	padding: 40px 20px 20px 20px;
+}
+
+article.callToAction section{
+	width: 85%;
+	height: 100%;
+	margin:0 20px;
+	float: left;
+}
+
+article.callToAction h1{
+	margin: 55px 0 10px 0; 
+}
+
+article.callToACtion p{
+	font-size: 16pt;
+}
+
+/*METHOD ARTICLE*/
+
+article.method{
+	height: 870px;
+}
+
+article.method section{
+	width: 100%;
+	height: 50%;
+	padding: 20px; 	
+}
+
+article.method figure{
+	display: inline-block;
+	width:360px;
+	height:360px;
+	margin: 0 0 0 5%;
+
+}
+
+article.method figcaption{
+	display: inline-block;
+	width:40%;
+	height:300px;
+	margin: 20px 1% 20px 0; 
+	float: right;
+	min-width: 255px;
+}
+#mSec2 figure{
+	float: right;
+	margin: 0 5% 0 0;
+}
+
+#mSec2 figcaption{
+	float: left;
+	margin: 20px 1% 20px 0; 
+}
+
+#mSec2 img{
+	position: relative;
+	right:30px;
+}
+
+/*STEPS SECTION*/
+
+article.whyWhoWhat{
+	height: 900px;
+	padding: 20px 40px;
+
+}
+
+article.whyWhoWhat section{
+	position: relative;
+	width: 300px;
+	height: 390px;
+	margin: 20px 0 20px 5%;
+	float: left;
+}
+
+article.whyWhoWhat figure{
+	height: 200px;
+	width: 200px;
+	margin: 0;
+}
+
+article.whyWhoWhat figcaption{
+	width: 240px;
+	height: 180px;
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+#who{
+	float: right;
+	margin: 20px 5% 20px 0 ;
+}
+
+#who figure{
+	float: right;
+}
+
+#who img{
+	position: relative;
+	right:30px;
+}
+
+#who figcaption{
+	left: 0;
+}
+
+#who h3{
+	text-align: right;
+	padding-right: 10px;
+
+}
+
+#what{
+	width:300px;
+	margin: 20px 0 20px 32%;
+	/*A MAPPING JAVA FUNCITON IS GOING TO BE NEED TO KEEP THIS CENTERED*/
+}
+
+#what figure{
+	position: absolute;
+	left: 75px;
+}
+
+#what img{
+	position: relative;
+	right:30px;
+}
+
+#what figcaption{
+	left: 30px;
+}
+
+#what h3{
+	text-align: center;
+}
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+@import '../css/main.css';
+
+
+main{
+	width: 100%;
+}
+
+article.pageTitle {
+	height: 270px;
+	padding: 40px 20px;
+}
+
+article.pageTitle section{
+	position: relative;
+	width: 70%;
+	min-width: 500px;
+	height: 110px;
+	margin:0 auto;
+}
+
+article.pageTitle h1{
+	position: relative;
+	right:20px;		
+	margin: 40px 0 20px 0;
+}
+
+form{
+	width: 80%;
+	min-width: 500px;
+	margin: 20px 10%;
+}
+
+form article{
+	min-width: 500px;
+	max-width: 750px;
+	min-height: 72px;
+	border-bottom: solid 4px #AD2228;
+	margin:0 auto;
+
+}
+
+
+form section.label{
+	float: left;
+	min-height: 70px;
+	width: 30%;
+	padding:25px 0 10px 20px;
+}
+
+form section.input{
+	width: 70%;
+	float: left;
+	min-height: 70px;
+}
+
+
+label{
+	font-family: 'Proxima Nova', normal;
+	font-weight: 700;
+	font-size: 18pt
+
+}
+
+input{
+	width: 100%;
+	min-height: 68px;
+	padding:14px 0 10px 20px;
+	font-family: 'Proxima Nova', normal;
+	font-weight: normal;
+	font-size: 18pt;
+	border:none;
+	border-left: solid 4px #AD2228;
+}
+
+
+
+#who, #who input{
+	min-height: 250px;
+}
+#who input{
+	min-height: 246px;
+}
+
+#why{
+	min-height: 250px;
+	border: none;
+}
+
+#why input{
+	min-height: 246px;
+	
+}
+
+

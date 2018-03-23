@@ -1,0 +1,162 @@
+/*LOADING IN FONTS*/
+
+@import 'fontLoad.css';
+
+*{
+	box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background-color: #E3F1FF;
+}
+
+.clearfix::after {
+  display: block;
+  clear: both;
+  height: 0;
+  font-size: 0;
+  content: '';
+  visibility: hidden;
+}
+
+h1, h2, h3, h4{
+	font-family: 'Oakney', bold;
+	font-style: normal; 
+}
+
+h1{
+	font-size: 30pt; 
+	color: #AD2228;
+}
+
+h2{
+	font-size: 22pt; 
+}
+
+h3{
+	font-size: 22pt;
+	font-weight: normal;
+}
+
+h4{
+	font-size: 18pt;
+}
+
+p{
+	font-family: 'Proxima Nova', normal;
+	font-style: normal; 
+	font-size: 14pt;
+	line-height: 1.2em;
+}
+
+/*HEADER*/
+
+header{
+	width:100%;
+	padding: 20px 30px 10px 30px;
+	margin: 0;
+	height: 105px;
+}
+
+header article{
+	/*Will be adjusted with content*/
+	width:350px;
+	height: 100%;
+	float: left;
+	margin-right: 5px;
+	padding: 0;
+}
+
+header section{
+	width: 245px;
+	height: 100%;
+	margin: 0;
+	margin-left: 10px;
+	float: left;
+	padding-top: 2px;
+	border-bottom: solid 2px #AD2228;
+}
+
+header #pageID{
+	height: 100%;
+	margin: 0;
+	padding: 10px 10px 5px 0;
+	width: 60px;
+}
+
+header article h2{
+	margin: 7px 6px;
+}
+
+#pageID h3{
+	font-weight: normal;
+	margin:35px 0 0 0;
+
+}
+
+header nav{
+	width:290px;
+	max-width:450px;
+	height: 100%;
+	float: right;
+}
+
+nav ul {
+	position: relative;
+	list-style-type: none;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	padding: 47px 10px 0px 10px;
+	width: 75px;
+	height: 100%;
+	text-align: center;
+	margin:0 10px 0 10px;
+	float: left;
+	border-bottom: solid 2px #AD2228;
+}
+
+nav li a {
+	font-family: 'Oakney', normal;
+	font-weight: normal;
+	font-size: 20pt;
+	color: black;
+  	display: block;
+	text-decoration: none;
+}
+
+/*GEN ELEMENTS*/
+
+figure{
+	overflow: hidden;
+}
+
+figcaption p{
+	background-color: #fff;
+	border-left: solid 40px #fff;
+	border-right: solid 15px #fff;
+	border-bottom: solid 15px #fff;
+}
+
+figcaption h2{
+	background-color: #fff;
+	border-left: solid 20px #fff;
+	text-decoration: underline;
+	text-decoration-color: #AD2228; 
+}
+
+figcaption{
+	background-color: #fff;
+	padding: 0;
+}
+
+footer,figure {
+  background-color: rgba(0, 100, 255, 0.2);
+}
+
