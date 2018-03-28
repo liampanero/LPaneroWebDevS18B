@@ -4,37 +4,38 @@
 ##Summary:
 
 I started everything with a very detailed wireframe in PhotoShopt which was incredibly helpful in know relavtive hieghts and widths for pixels, what the blocking of my css should look like, as well as planning out all of my neccisary ellements. 
-![alt text](ScreenShots/ss00.png)
+
+![alt text](ScreenShots/ss00)
 
 Moving onward I laid out my html knowing all the containers and could immediately start wokring on css knowing my html was accomidated for
-![alt text](ScreenShots/ss01.png)
+![alt text](ScreenShots/ss01)
 
 By assigning classes to articles and sections, I was able to create specialized css styles without getting cluttered with ids and class. This, along with working article by article, my css was writted in a way that reflected order and higherarchy making revisions a far easier process
 
-![alt text](ScreenShots/ss02.png)
-![alt text](ScreenShots/ss03.png)
+![alt text](ScreenShots/ss02)
+![alt text](ScreenShots/ss03)
 
 After being relatively happy with my blocking added my websites's fonts through css, writing the command in a seporte css file that is imported into my main.css, and wrote my copy to confirm my block sizing  was appropriate.
 
-![alt text](ScreenShots/ss04.png)
-![alt text](ScreenShots/ss05.png)
+![alt text](ScreenShots/ss04)
+![alt text](ScreenShots/ss05)
 
 Once the text was in the html it was simple to just change the background colors of my blocks because I knew that the only tage with a different background color would be figcaptions. 
 
-![alt text](ScreenShots/ss06.png)
-![alt text](ScreenShots/ss07.png)
-![alt text](ScreenShots/ss08.png)
-![alt text](ScreenShots/ss09.png)
+![alt text](ScreenShots/ss06)
+![alt text](ScreenShots/ss07)
+![alt text](ScreenShots/ss08)
+![alt text](ScreenShots/ss09)
 
 I had yet to develop the Contact page before feeling fairly finished with my Landing and Who? pages. Instead of stripping the entire page of CSS, I simply reverted every tag under 'main' to that the opacity/blocking background and went through the same ground up styling workflow.
 
-![alt text](ScreenShots/ss10.png)
-![alt text](ScreenShots/ss11.png)
+![alt text](ScreenShots/ss10)
+![alt text](ScreenShots/ss11)
 
 The last thing i did was choose photos, save them for web through photo shop, and then drop them in the html. 
 
-![alt text](ScreenShots/ss12.png)
-![alt text](ScreenShots/ss13.png)
+![alt text](ScreenShots/ss12)
+![alt text](ScreenShots/ss13)
 
 ##Problems:
 
