@@ -1,7 +1,7 @@
 
-#Liam Panero, WebDev SecB Spring18 Midterm. 
+# Liam Panero, WebDev SecB Spring18 Midterm. 
 
-##Summary:
+## Summary:
 
 I started everything with a very detailed wireframe in PhotoShopt which was incredibly helpful in know relavtive hieghts and widths for pixels, what the blocking of my css should look like, as well as planning out all of my neccisary ellements. 
 
@@ -37,13 +37,13 @@ The last thing i did was choose photos, save them for web through photo shop, an
 ![alt text](ScreenShots/ss12)
 ![alt text](ScreenShots/ss13)
 
-##Problems:
+## Problems:
 
 The biggest problems I encountered where balancing my uses of percentage-based and pixel-based dimensions to maintain reactivity without deforming the content. This also lead many conversations with myself over the appropriate positioning styels to apply, i.e. floating, relative, absolute, block, inline-block, margin 0 auto. 
 
 Luckly my process made expirimenting with these styles go smoothly since I could easily spot and refference the element to it's style. 
 
-##Moving Forward: 
+## Moving Forward: 
 
 There are many small animations and interactions, like making the header disappear with down scroll but appear with any upscroll, a gradient transition to the baground triggle by a section. Also Media queries would be nice to address to small erroring with my html, luckly with the reactive design those queries are at most adjustments the hieght and margins at a particular screen size. 
 
