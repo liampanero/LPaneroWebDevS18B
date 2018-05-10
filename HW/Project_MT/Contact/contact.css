@@ -3,6 +3,7 @@
 
 main{
 	width: 100%;
+	padding-top: 125px;
 }
 
 article.pageTitle {
@@ -91,4 +92,53 @@ input{
 	
 }
 
+/*SMALL DEVICES */
+@media only screen and (max-width: 767px){
 
+	article.pageTitle {
+		height: 350px;
+		padding: 50px 20px;
+	}
+
+	article.pageTitle section{
+		position: relative;
+		width: 90%;
+		min-width: 330px;
+		height: 250px;
+		margin:0 auto;
+	}
+
+	article.pageTitle h1{
+		position: relative;		
+		margin: 40px 0px 10px 30px;
+	}
+
+	form{
+		width: 92%;
+		min-width: 320px;
+		margin: 9px;
+	}
+
+	form article{
+		min-width: 300px;
+		max-width: 750px;
+		min-height: 72px;
+		margin:0 auto;
+
+	}
+
+
+	form section.label{
+		float: left;
+		min-height: 70px;
+		width: 30%;
+		padding:0;
+	}
+
+	form section.input{
+		width: 70%;
+		float: left;
+		min-height: 70px;
+	}
+
+}

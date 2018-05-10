@@ -12,6 +12,7 @@ main{
 	/*Will become (100%)*/
 	height: 100%;
 	padding: 20px;
+	padding-top: 150px;
 }
 
 article{
@@ -22,8 +23,8 @@ article{
 /*CALL TO ACTION ARTICLE*/
 
 article.pageTitle {
-	height: 270px;
-	padding: 40px 20px;
+	height: 240px;
+	padding: 10px 20px;
 }
 
 article.pageTitle section{
@@ -67,3 +68,81 @@ article.profiles figcaption{
 	width:70%;
 	height:200px;
 	margin: 50px 0 2% 250px;
+}
+
+
+
+/*SMALL DEVICES */
+@media only screen and (max-width: 767px){
+
+
+	article{
+		width: 100%;
+		padding: 20px;
+	}
+
+	/*CALL TO ACTION ARTICLE*/
+
+	article.pageTitle {
+		height: 350px;
+		padding: 20px 10px;
+	}
+
+	article.pageTitle section{
+		position: relative;
+		width: 90%;
+		min-width: 70%;
+		height: 110px;
+		margin:0 auto;
+	}
+
+	article.pageTitle h1{
+		position: relative;
+		right:5px;
+		margin: 10px 0 10px 0;
+	}
+
+	/* PROFILES ARTICLE*/
+
+	article.profiles{
+		height: 2800px;
+	}
+
+	article.profiles section{
+		position: relative;
+		width: 100%;
+		height: 820px;
+		padding: 20px; 	
+	}
+
+	article.profiles figure{
+		display: inline-block;
+		position: absolute;
+		width:300px;
+		height:300px;
+		margin: 0;
+	}
+
+	article.profiles figcaption{
+		display: inline-block;
+		position: relative;
+		width:100%;
+		height:500px;
+		margin: 0;
+		top: 300px;
+	}
+	article.profiles img{
+		width: 100%;
+		height:100%;
+	}
+	
+	#IdeaGuy figcaption{
+		height: 500px;
+	}
+
+	#Therapist {
+		height: 950px;
+	}
+}
+
+

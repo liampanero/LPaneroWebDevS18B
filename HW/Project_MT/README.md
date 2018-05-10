@@ -5,7 +5,7 @@
 
 I started everything with a very detailed wireframe in PhotoShopt which was incredibly helpful in know relavtive hieghts and widths for pixels, what the blocking of my css should look like, as well as planning out all of my neccisary ellements. 
 
-![alt text](screenshots/ss00)
+![alt text](screenshots/ss00.png)
 
 Moving onward I laid out my html knowing all the containers and could immediately start wokring on css knowing my html was accomidated for
 ![alt text](screenshots/ss01.png)

@@ -6,6 +6,7 @@
 	box-sizing: border-box;
 }
 
+
 html,
 body {
   margin: 0;
@@ -58,6 +59,8 @@ header{
 	padding: 20px 30px 10px 30px;
 	margin: 0;
 	height: 105px;
+	position: absolute;
+
 }
 
 header article{
@@ -159,4 +162,16 @@ figcaption{
 footer,figure {
   background-color: rgba(0, 100, 255, 0.2);
 }
+
+
+@media only screen and (max-width: 767px){
+	h1{
+		font-size:28pt;
+	}
+	p{
+		font-size: 17pt;
+	}
+}
+
+
 
