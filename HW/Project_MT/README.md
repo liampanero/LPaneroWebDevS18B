@@ -1,5 +1,22 @@
+# Liam Panero, WebDev SecB Spring18 Final. 
 
-# Liam Panero, WebDev SecB Spring18 Midterm. 
+I startied this time with my media queries, turned out i was missing a vitla meta in "name="viewport" content="width=device-width, initial-scale=1"". I corrected this immediately and then worked on the resizing. To do this I only created one tag for the standard phone size as the trigger point, but set my brower preview to the smallest (367px) to be assured my product would scale comfortably, 
+
+There was a lot of frustration with javascript not loading for reasons you remember from the begining of our last class. 
+
+After that day, and a few hours coming through greensock docs, I got a pretty comfortable with java. my biggest pain came from setting up my inViewTriggers and if statements. I would test functionality on one to then have it bug as I expanded, to only then have it fire to the expanded sellection but the firing then bug. This took half a day of debugging to just have a functional frame work. From there it was customizing the greensock animations perpage. That I had fun with but am happy to go to boxing tomorrow and release all the pent up rage i have from de-bugging. I'm uploading so late because I was trying to the very end for my 'header appear on scroll up' but was unsunccessful, I thing greensock was the wrong code to use for than but realized it too late.
+
+all my screen shots are in the 'screenshots' folder in a subfolder 'final'
+
+thank you Katie!
+
+
+
+## Liam Panero, WebDev SecB Spring18 Midterm. 
+
+--
+
+
 
 ## Summary:
 
